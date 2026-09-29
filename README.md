@@ -2,6 +2,8 @@
 ## Devlogs
 ### W1
 Write your W1 activity Devlog here.
+1. The camera will no longer follow the movements of cat. Because they are not binding together anymore, now they can have different action trajectory.
+2. https://muningh.itch.io/111
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
